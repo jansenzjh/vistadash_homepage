@@ -242,12 +242,17 @@ footer {
 
     nav {
         margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     nav a {
-        margin: 0 10px;
+        margin: 10px 0;
     }
+    
     .app-store-btn {
-        margin-top: 15px;
+        margin-top: 10px;
+        margin-left: 0;
     }
 }
