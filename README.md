@@ -1,4 +1,4 @@
-# VistaDash Website
+# VistaDash Website 
 
 This repository contains the source code for the official homepage of the VistaDash application. The website is a simple, responsive, single-page design meant to introduce the app to new users and provide a link to the privacy policy.
 
